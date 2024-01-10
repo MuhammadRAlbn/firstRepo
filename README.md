@@ -1,0 +1,2 @@
+# firstRepo
+repositori pertama saya
